@@ -1,27 +1,22 @@
 # Kickstarter-WebApp
 
-- Landing page 
+- Landing page  
+		Marketing and onBoarding Humans
 
-    Marketing and onBoarding Humans
 
-
-- Home page 
-
+- Home page  
     Web App Dashboard
 
 
-- Bootstrap3 
-    
+- Bootstrap3   
     http://getbootstrap.com
 
 
-- jQuery 
-
+- jQuery  
     http://jquery.com
 
 
-- Glyphicons 
-    
+- Glyphicons   
     http://getbootstrap.com/components/#glyphicons
 
 
